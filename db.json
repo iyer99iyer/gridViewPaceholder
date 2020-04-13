@@ -35,5 +35,12 @@
         "stars": 2,
         "distance": 6.93
     },
+    {
+        "index": 5,
+        "picture": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg",
+        "serviceType": "Signidyne",
+        "stars": 2,
+        "distance": 6.93
+    },
 ]
 }
