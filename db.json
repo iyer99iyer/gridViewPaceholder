@@ -1,0 +1,37 @@
+[
+    {
+        "index": 0,
+        "picture": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg",
+        "serviceType": "Zensus",
+        "stars": 2.4,
+        "distance": 2.76
+    },
+    {
+        "index": 1,
+        "picture": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg",
+        "serviceType": "Comtrail",
+        "stars": 4.6,
+        "distance": 4.44
+    },
+    {
+        "index": 2,
+        "picture": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg",
+        "serviceType": "Temorak",
+        "stars": 4.2,
+        "distance": 2.23
+    },
+    {
+        "index": 3,
+        "picture": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg",
+        "serviceType": "Portico",
+        "stars": 1.8,
+        "distance": 2.83
+    },
+    {
+        "index": 4,
+        "picture": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg",
+        "serviceType": "Signidyne",
+        "stars": 2,
+        "distance": 6.93
+    }
+]
